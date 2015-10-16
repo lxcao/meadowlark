@@ -1,0 +1,27 @@
+{
+  "name": "meadowlark",
+  "version": "0.0.3",
+  "description": "learning from \"Web Development with Node and Expres\"",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxcao/nodejs-learning-meadowlark.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "lxcao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxcao/nodejs-learning-meadowlark/issues"
+  },
+  "homepage": "https://github.com/lxcao/nodejs-learning-meadowlark#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1"
+  },
+  "readmeFilename": "README.md"
+}
